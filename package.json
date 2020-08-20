@@ -1,7 +1,12 @@
 {
-  "name": "myApp",
+  "name": "appointment-event-management",
   "version": "0.0.1",
   "private": true,
+  "author": {
+    "name": "karthik balaji",
+    "email": "kbtechspace@gmail.com",
+    "url": "https://kbtechspace.com/"
+  },
   "dependencies": {
     "@capacitor/core": "2.4.0",
     "@ionic/react": "^5.0.7",
